@@ -83,6 +83,21 @@ section {
     background-position: center;
 }
 
+.hero-cta {
+    width: 400px;
+    display: inline-block;
+}
+.hero-cta h2 {
+    color: #fce138;
+    text-align: right;  
+    font-size: 55px;
+}
+
+.hero-cta p {
+    color: white;
+    text-align: right;
+}
+
 .hero-form {
     background-color: #fce138;
     color: #024e76;
