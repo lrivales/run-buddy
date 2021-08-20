@@ -12,3 +12,5 @@ https://lrivales.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Lawrence Rivales
+
+### ©️2019 Run Buddy, Inc 
