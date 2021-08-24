@@ -53,6 +53,13 @@ header nav ul li a {
     text-shadow: 0 0 10px rgba(0, 0, 0, .5);
 }
 
+header nav ul li a:hover {
+    background: #fce138;
+    color: #024e76;
+    border-radius: 15px;
+    text-shadow: none;
+}
+
 header h1 {
     font-weight: bold;
     font-size: 36px;
@@ -400,13 +407,6 @@ section {
 
     header nav ul li a {
         font-size: 20px;
-    }
-
-    header nav ul li a:hover {
-        background: #fce138;
-        color: #024e76;
-        border-radius: 15px;
-        text-shadow: none;
     }
 
     footer h2, footer div {
